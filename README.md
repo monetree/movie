@@ -1,5 +1,5 @@
 
-argo skill
+algo scale: https://mail.google.com/mail/u/0/#inbox/FMfcgxvzKtPkWFTTgjBMCsqMnwGHcVbb
 
     #urls.py:
     from django.conf import settings
