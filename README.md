@@ -1,5 +1,5 @@
 
-argi skill
+argo skill
 
     #urls.py:
     from django.conf import settings
