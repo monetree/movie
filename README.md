@@ -80,4 +80,7 @@
 
       "o2":Waiter.objects.select_related('restaurant'),
 
-  }
+    }
+
+
+color.Cyan("Prints text in cyan.")
